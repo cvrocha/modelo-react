@@ -1,5 +1,5 @@
 **<h1 align="center">&nbsp;&nbsp;&nbsp;<img height="100" width="100" src="https://github.com/cvrocha/modelo-react/assets/62439381/ce8a5697-26a9-4c2e-90a7-6a9f7a327cda">
- Modelo React <img height="80" width="80" src="https://github.com/cvrocha/modelo-react/assets/62439381/47df8eeb-7895-4f32-8fb0-ad0662fdf306">
+ Modelo React <img height="75" width="75" style="padding-left: 15px; padding-bottom: 8px" src="https://github.com/cvrocha/modelo-react/assets/62439381/47df8eeb-7895-4f32-8fb0-ad0662fdf306">
 &nbsp;&nbsp;&nbsp;</h1>**
 
 Os arquivos presentes neste projeto, já estão configurados para uso.
