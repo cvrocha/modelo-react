@@ -1,4 +1,6 @@
-**<h1 align="center">&nbsp;<img height="50" width="50" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966"> Projeto modelo react <img height="50" width="50" src="https://camo.githubusercontent.com/002313a28ac7d09f24e8a70358139bb4f7c2c32eaf83a926e873bedf67b69eac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f67697068792e676966">&nbsp;</h1>**
+**<h1 align="center">&nbsp; ![modelo](https://github.com/cvrocha/modelo-react/assets/62439381/ce8a5697-26a9-4c2e-90a7-6a9f7a327cda)
+ Modelo React ![React-icon svg](https://github.com/cvrocha/modelo-react/assets/62439381/47df8eeb-7895-4f32-8fb0-ad0662fdf306)
+&nbsp;</h1>**
 
 Os arquivos presentes neste projeto, já estão configurados para uso.
 
